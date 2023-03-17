@@ -1,0 +1,10 @@
+{
+  "authentication_error": "許可されていない動作です",
+  "email_login.failed_to_sign_up": "操作する権限がありません",
+  "file_exists_label": "ファイルが既に存在します",
+  "mobile.user_not_registered": "User is not registered",
+  "mobile.wrong_credentials": "Wrong credentials",
+  "out_of_range_error": "想定を外れた値が設定されています",
+  "record_not_uniq_error": "既に同様のデータが登録されています",
+  "unauthorized_error": "操作する権限がありません"
+}
